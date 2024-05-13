@@ -11,7 +11,7 @@ SCAGoat is an application for Software Composition Analysis (SCA) that focuses o
 
 
 
-## What All CVE Covered?
+## Which CVEs are Covered?
 
 The CVEs covered under SCAGoat are primarily critical and high severity, which have a CVSS score of 9. This aid in understanding the vulnerable package being used and its potential for exploitation. 
 
